@@ -1,2 +1,0 @@
-# angular-basic
-curso angular
